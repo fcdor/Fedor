@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @FedorXYZ
 - 📫 How to reach me Discord : FedorXYZ#6788
+- ![Discord Shield](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield)
